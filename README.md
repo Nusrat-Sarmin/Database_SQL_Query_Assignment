@@ -3,6 +3,7 @@
 1. Create a database named class_one_assignment.
 2. create a table named customers.
 3. insert the following customer data:
+
 a)
 First Name: Babara
 Last Name: MacCaffrey
